@@ -10,3 +10,5 @@
 <p align="center">
 <h3 align="center"><a href="https://github.com/ec-coding/MVC-Lecture/blob/main/MVC%20Lecture.pdf" target="_blank" rel="noreferrer">Slides</a></h3>
 </p>
+## Lessons Learned:
+- Splitting back-end code into more manageable components, each with their own distinct responsibilities
